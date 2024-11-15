@@ -42,6 +42,10 @@ This app handles remote data fetching, display lists with custom widgets, implem
  <img src="https://github.com/user-attachments/assets/6767b99f-b58a-4876-9563-a894145aebc5" width="320" height="680" />
   <img src="https://github.com/user-attachments/assets/099aac2e-d9e4-4c56-bb3f-d843a2507138" width="320" height="680" />
 
+  ## Screenshots
+  ![Screenshot_1](https://github.com/user-attachments/assets/42c93c95-95cb-48a6-afbe-80bada24a280)
+
+
 ## Tech Stack
 
 - **Flutter**:  Framework for building natively compiled applications for mobile.
