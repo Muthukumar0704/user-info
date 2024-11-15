@@ -34,17 +34,16 @@ This app handles remote data fetching, display lists with custom widgets, implem
 **Error Handling**: Displays error messages in case of network issues or empty search results.
 **Pull-to-Refresh**: The user list can be refreshed to get the latest data.
 
-## Screenshots
-<img src="https://github.com/user-attachments/assets/ff044627-9af8-4a53-b61e-c818c3a63eb0" width="320" height="680" /> <img src="https://github.com/user-attachments/assets/a736a902-597c-41c6-a597-1d1c01e1e617" width="320" height="680" />
- <img src="https://github.com/user-attachments/assets/98cff83f-da6d-4bbf-b83c-e6bd088ee4bc" width="320" height="680" />
- <img src="https://github.com/user-attachments/assets/043d7176-46ca-4c26-bf29-7158a19f7a5a" width="320" height="680" />
-  <img src="https://github.com/user-attachments/assets/194f1053-2b67-4fda-8397-aa60eadb0c19" width="320" height="680" />
- <img src="https://github.com/user-attachments/assets/6767b99f-b58a-4876-9563-a894145aebc5" width="320" height="680" />
-  <img src="https://github.com/user-attachments/assets/099aac2e-d9e4-4c56-bb3f-d843a2507138" width="320" height="680" />
 
-  ## Screenshots
-  ![Screenshot_1](https://github.com/user-attachments/assets/42c93c95-95cb-48a6-afbe-80bada24a280)
 
+ ## Screenshots
+![Screenshot_1](https://github.com/user-attachments/assets/42c93c95-95cb-48a6-afbe-80bada24a280)
+![Screenshot_2](https://github.com/user-attachments/assets/25d2187d-362f-4f7a-91be-808b6b5970ce)
+![Screenshot_3](https://github.com/user-attachments/assets/149c1468-ba4d-4ce9-a47c-a60b63d995df)
+![Screenshot_4](https://github.com/user-attachments/assets/6f8b3a61-37d3-4633-b5c4-95e4f9e8024b)
+![Screenshot_5](https://github.com/user-attachments/assets/eaf63004-3b63-4a38-976a-2f1f1f583642)
+![Screenshot_6](https://github.com/user-attachments/assets/ff09a43f-5145-4ba3-83b8-398682adc9e2)
+![Screenshot_7](https://github.com/user-attachments/assets/a01aa210-3123-410e-a99a-465ad656099e)
 
 ## Tech Stack
 
